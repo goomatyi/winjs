@@ -51,10 +51,7 @@ grunt
 ```
 
 > **Note:** You may need to use sudo (for OSX, *nix, BSD etc) or run your command shell as Administrator (for Windows) to install Grunt globally.
-
-# Tests status
-Refer to http://winjs.azurewebsites.net/#status for the current status of the unit tests and the list of known issues.
-
+ 
 # Try WinJS
 Check out our online playground at http://winjs.azurewebsites.net/
 
