@@ -52,11 +52,6 @@ grunt
 
 > **Note:** You may need to use sudo (for OSX, *nix, BSD etc) or run your command shell as Administrator (for Windows) to install Grunt globally.
  
-# Try WinJS
-Check out our online playground at http://winjs.azurewebsites.net/
-
-# Follow Us
-Twitter https://twitter.com/BuildWinJS  
-Facebook https://www.facebook.com/buildwinjs
+ 
 
 [contribute]: https://github.com/winjs/winjs/blob/master/CONTRIBUTING.md
